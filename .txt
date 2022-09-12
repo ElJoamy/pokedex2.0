@@ -1,0 +1,5 @@
+mysql://bb5985621623b3:621d91aa@us-cdbr-east-06.cleardb.net/heroku_62b9ea9419c297f?reconnect=true
+USER= "bb5985621623b3"
+PASSWORD="621d91aa"
+HOST="us-cdbr-east-06.cleardb.net"
+DATABASE="heroku_62b9ea9419c297f"
